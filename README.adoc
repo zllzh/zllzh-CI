@@ -4,7 +4,7 @@
 :icons: font
 :source-highlighter: prettify
 
-This guide walks you through the process of building a https://docker.com[Docker] image for running a Spring Boot application.
+This guide walks you throughdddddddddddddddddddddddddd the process of building a https://docker.com[Docker] image for running a Spring Boot application.
 
 == What you'll build
 
